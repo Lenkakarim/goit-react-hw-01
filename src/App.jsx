@@ -3,7 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./index.css";
 
-import Profile from "./components/profile/profile";
+import Profile from "./components/profile/Profile";
 import userData from "./userData.json"
 
 import FriendList from "./components/FriendList/FriendList"
