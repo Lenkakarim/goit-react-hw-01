@@ -4,9 +4,9 @@ import viteLogo from "/vite.svg";
 import "./index.css";
 
 import Profile from "./components/profile/Profile";
-import userData from "./userData.json"
+import userData from "./userData.json";
 
-import FriendList from "./components/FriendList/FriendList"
+import FriendList from "./components/FriendList/FriendList";
 import friends from "./friends.json";
 
 import TransactionHistory from "./components/TransactionHistory/TransactionHistory";
@@ -29,4 +29,3 @@ const App = () => {
 };
 
 export default App;
-
